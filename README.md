@@ -1,2 +1,2 @@
 # bilsis_anket_script
-bilsin anket scripti
+bilsis anket scripti
